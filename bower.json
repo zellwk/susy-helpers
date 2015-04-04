@@ -1,6 +1,6 @@
 {
   "name": "susy-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Zell Liew <zellwk@gmail.com>"
   ],
@@ -8,7 +8,7 @@
   "keywords": [
     "susy",
     "context",
-    "gallery",
+    "gallery"
   ],
   "license": "MIT",
   "ignore": [
