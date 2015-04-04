@@ -1,0 +1,22 @@
+{
+  "name": "susy-helpers",
+  "version": "0.0.1",
+  "authors": [
+    "Zell Liew <zellwk@gmail.com>"
+  ],
+  "main": "_susy-helpers.scss",
+  "keywords": [
+    "susy",
+    "context",
+    "gallery",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
